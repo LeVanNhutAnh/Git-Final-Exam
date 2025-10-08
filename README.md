@@ -4,7 +4,7 @@ Git Final ExamGit Final Exam
 
 Họ tên: Lê Văn Nhụt Anh Họ tên: Lê Văn Nhụt Anh 
 
-MSSV: 221222MSSV:221222
+MSSV: 221222
 
 Ngày làm bài: 08/10/2025  Ngày làm bài: 08/10/2025  
 

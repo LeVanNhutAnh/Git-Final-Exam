@@ -1,0 +1,8 @@
+Tính năng: Hệ thống quản lý học tập thông minh
+
+Mô tả tính năng:
+Đây là một tính năng cho phép sinh viên tạo và theo dõi kế hoạch học tập cá nhân.
+Hệ thống sẽ tự động nhắc nhở về các deadline quan trọng và theo dõi tiến độ học tập.
+Tính năng bao gồm dashboard hiển thị thống kê thời gian học, điểm số và mục tiêu đã đạt được.
+Người dùng có thể thiết lập mục tiêu ngắn hạn và dài hạn, hệ thống sẽ đưa ra gợi ý cải thiện.
+Tích hợp với calendar để đồng bộ lịch học và lịch thi cử một cách tự động.

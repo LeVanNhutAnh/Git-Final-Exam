@@ -3,3 +3,5 @@ Cảm nhận về Git:
 - Git là một công cụ quản lý mã nguồn rất mạnh mẽ và hữu ích cho lập trình viên
 - Việc sử dụng Git giúp tôi theo dõi lịch sử thay đổi code một cách chi tiết
 - Branch và merge trong Git giúp làm việc nhóm trở nên dễ dàng và hiệu quả hơn
+- Git reset và revert là những lệnh quan trọng để quản lý lịch sử commit
+- Học Git giúp tôi trở thành một lập trình viên chuyên nghiệp hơn
